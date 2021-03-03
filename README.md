@@ -1,1 +1,19 @@
-# vue-demo 多页面自己搭建
+# video-vue-demo
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
